@@ -1,0 +1,18 @@
+#header {
+      background-color:rgb(102, 204, 255);
+      color:red;
+      font-family:'times new roman''Times New Roman', Times, serif;
+      text-align:center;
+      padding:40px;
+    }
+    body{
+      background-color:honeydew
+    }
+    p{
+      background-color:greenyellowl;
+      font-size:20px;
+    }
+    img{
+      width:256px;
+      height:256px;
+    }
