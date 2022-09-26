@@ -9,6 +9,7 @@
 #################################
 
 #################################
+
 name: Lint Code Base
 
 
@@ -102,4 +103,3 @@ jobs:
           DEFAULT_BRANCH: master
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
